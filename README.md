@@ -3,4 +3,4 @@
  
  For libraries that use a chat service. Adapted from Mehmet Mert's "Chat box" Codepen. Presented at Designing for Digital 2019. A modified version appears on libraries.towson.edu
 
-##[View Demo](http://projects.juliacaffrey.com/simplified-chat-slider)
+[View Demo](http://projects.juliacaffrey.com/simplified-chat-slider)
